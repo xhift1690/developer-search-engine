@@ -1,0 +1,136 @@
+[
+  {
+    "query": "python list comprehension",
+    "relevant_doc_ids": [
+      12,
+      24,
+      22,
+      2,
+      0
+    ]
+  },
+  {
+    "query": "python data structures",
+    "relevant_doc_ids": [
+      24,
+      0,
+      12,
+      2
+    ]
+  },
+  {
+    "query": "python file read write",
+    "relevant_doc_ids": [
+      71,
+      86,
+      70,
+      85,
+      0,
+      88,
+      67
+    ]
+  },
+  {
+    "query": "python error handling exceptions",
+    "relevant_doc_ids": [
+      70,
+      0,
+      81
+    ]
+  },
+  {
+    "query": "python classes and objects",
+    "relevant_doc_ids": [
+      0
+    ]
+  },
+  {
+    "query": "python functions arguments",
+    "relevant_doc_ids": [
+      87,
+      17
+    ]
+  },
+  {
+    "query": "python string methods",
+    "relevant_doc_ids": [
+      0,
+      70
+    ]
+  },
+  {
+    "query": "python dictionary operations",
+    "relevant_doc_ids": [
+      77,
+      66
+    ]
+  },
+  {
+    "query": "python lambda map filter",
+    "relevant_doc_ids": [
+      77,
+      30,
+      85,
+      69,
+      0,
+      66
+    ]
+  },
+  {
+    "query": "python generators iterators",
+    "relevant_doc_ids": [
+      68,
+      69,
+      81,
+      0
+    ]
+  },
+  {
+    "query": "python decorators",
+    "relevant_doc_ids": [
+      22,
+      95
+    ]
+  },
+  {
+    "query": "python modules import packages",
+    "relevant_doc_ids": [
+      0,
+      88
+    ]
+  },
+  {
+    "query": "python sorting algorithms",
+    "relevant_doc_ids": [
+      68,
+      30,
+      84
+    ]
+  },
+  {
+    "query": "python regex regular expressions",
+    "relevant_doc_ids": [
+      68,
+      81,
+      69
+    ]
+  },
+  {
+    "query": "python json parsing",
+    "relevant_doc_ids": [
+      14,
+      0,
+      87,
+      88,
+      17
+    ]
+  },
+  {
+    "query": "async await javascript promise",
+    "relevant_doc_ids": [
+      87,
+      22,
+      14
+    ]
+  }
+]

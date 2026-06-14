@@ -1,0 +1,1862 @@
+{
+  "python list comprehension": [
+    {
+      "doc_id": 17,
+      "title": "10.Brief tour of the standard library",
+      "url": "https://docs.python.org/3/tutorial/stdlib.html",
+      "snippet": "10. Brief tour of the standard library   10.1. Operating system interface   The module provides dozens of functions for interacting with the\noperating system: Be sure to use the style instead of . ...",
+      "relevant": false
+    },
+    {
+      "doc_id": 16,
+      "title": "9.Classes",
+      "url": "https://docs.python.org/3/tutorial/classes.html",
+      "snippet": "9. Classes   Classes provide a means of bundling data and functionality together.  Creating\na new class creates a new type of object, allowing new instances of that\ntype to be made.  Each class...",
+      "relevant": false
+    },
+    {
+      "doc_id": 48,
+      "title": "copy Shallow and deep copy operations",
+      "url": "https://docs.python.org/3/library/copy.html",
+      "snippet": "Shallow and deep copy operations   Source code: Lib/copy.py Assignment statements in Python do not copy objects, they create bindings\nbetween a target and an object. For collections that are mutable...",
+      "relevant": false
+    },
+    {
+      "doc_id": 12,
+      "title": "5.Data Structures",
+      "url": "https://docs.python.org/3/tutorial/datastructures.html",
+      "snippet": "5. Data Structures   This chapter describes some things you ve learned about already in more detail,\nand adds some new things as well. 5.1. More on Lists   The list data type has some more methods....",
+      "relevant": true
+    },
+    {
+      "doc_id": 24,
+      "title": "Built-in Types",
+      "url": "https://docs.python.org/3/library/stdtypes.html",
+      "snippet": "Built-in Types   The following sections describe the standard types that are built into the\ninterpreter. The principal built-in types are numerics, sequences, mappings, classes,\ninstances and...",
+      "relevant": true
+    },
+    {
+      "doc_id": 91,
+      "title": "hashlib Secure hashes and message digests",
+      "url": "https://docs.python.org/3/library/hashlib.html",
+      "snippet": "Secure hashes and message digests   Source code: Lib/hashlib.py This module implements a common interface to many different hash algorithms.\nIncluded are the FIPS secure hash algorithms SHA224,...",
+      "relevant": false
+    },
+    {
+      "doc_id": 22,
+      "title": "Built-in Functions",
+      "url": "https://docs.python.org/3/library/functions.html",
+      "snippet": "Built-in Functions   The Python interpreter has a number of functions and types built into it that\nare always available.  They are listed here in alphabetical order. Built-in Functions Built-in...",
+      "relevant": true
+    },
+    {
+      "doc_id": 2,
+      "title": "The Python Language Reference",
+      "url": "https://docs.python.org/3/reference/index.html",
+      "snippet": "The Python Language Reference   This reference manual describes the syntax and  core semantics  of the\nlanguage. It is terse, but attempts to be exact and complete. The semantics of\nnon-essential...",
+      "relevant": true
+    },
+    {
+      "doc_id": 0,
+      "title": "The Python Tutorial",
+      "url": "https://docs.python.org/3/tutorial/index.html",
+      "snippet": "The Python Tutorial   Tip This tutorial is designed for programmers that are new to the Python language, not beginners who are new to programming. Python is an easy to learn, powerful programming...",
+      "relevant": true
+    },
+    {
+      "doc_id": 82,
+      "title": "bz2 Support forbzip2compression",
+      "url": "https://docs.python.org/3/library/bz2.html",
+      "snippet": "Support for bzip2 compression   Source code: Lib/bz2.py This module provides a comprehensive interface for compressing and\ndecompressing data using the bzip2 compression algorithm. The module...",
+      "relevant": false
+    },
+    {
+      "doc_id": 8,
+      "title": "Python 3.14.5 documentation",
+      "url": "https://docs.python.org/3/index.html",
+      "snippet": "Python 3.14.5 documentation Welcome! This is the official documentation for Python 3.14.5. Documentation sections: What's new in Python 3.14? Or all \"What's new\" documents since Python 2.0 Tutorial...",
+      "relevant": null
+    },
+    {
+      "doc_id": 72,
+      "title": "pickle Python object serialization",
+      "url": "https://docs.python.org/3/library/pickle.html",
+      "snippet": "Python object serialization   Source code: Lib/pickle.py The module implements binary protocols for serializing and\nde-serializing a Python object structure.  Pickling  is the process\nwhereby a...",
+      "relevant": false
+    }
+  ],
+  "python data structures": [
+    {
+      "doc_id": 24,
+      "title": "Built-in Types",
+      "url": "https://docs.python.org/3/library/stdtypes.html",
+      "snippet": "Built-in Types   The following sections describe the standard types that are built into the\ninterpreter. The principal built-in types are numerics, sequences, mappings, classes,\ninstances and...",
+      "relevant": true
+    },
+    {
+      "doc_id": 1,
+      "title": "The Python Standard Library",
+      "url": "https://docs.python.org/3/library/index.html",
+      "snippet": "The Python Standard Library   While The Python Language Reference describes the exact syntax and\nsemantics of the Python language, this library reference manual\ndescribes the standard library that is...",
+      "relevant": false
+    },
+    {
+      "doc_id": 33,
+      "title": "stringprep Internet String Preparation",
+      "url": "https://docs.python.org/3/library/stringprep.html",
+      "snippet": "Internet String Preparation   Source code: Lib/stringprep.py When identifying things (such as host names) in the internet, it is often\nnecessary to compare such identifications for  equality ....",
+      "relevant": false
+    },
+    {
+      "doc_id": 0,
+      "title": "The Python Tutorial",
+      "url": "https://docs.python.org/3/tutorial/index.html",
+      "snippet": "The Python Tutorial   Tip This tutorial is designed for programmers that are new to the Python language, not beginners who are new to programming. Python is an easy to learn, powerful programming...",
+      "relevant": true
+    },
+    {
+      "doc_id": 35,
+      "title": "rlcompleter Completion function for GNU readline",
+      "url": "https://docs.python.org/3/library/rlcompleter.html",
+      "snippet": "Completion function for GNU readline   Source code: Lib/rlcompleter.py The module defines a completion function suitable to be\npassed to in the module. When this module is imported on a Unix platform...",
+      "relevant": false
+    },
+    {
+      "doc_id": 36,
+      "title": "struct Interpret bytes as packed binary data",
+      "url": "https://docs.python.org/3/library/struct.html",
+      "snippet": "Interpret bytes as packed binary data   Source code: Lib/struct.py This module converts between Python values and C structs represented\nas Python objects.  Compact format strings describe the...",
+      "relevant": false
+    },
+    {
+      "doc_id": 47,
+      "title": "types Dynamic type creation and names for built-in types",
+      "url": "https://docs.python.org/3/library/types.html",
+      "snippet": "Dynamic type creation and names for built-in types   Source code: Lib/types.py This module defines utility functions to assist in dynamic creation of\nnew types. It also defines names for some object...",
+      "relevant": false
+    },
+    {
+      "doc_id": 49,
+      "title": "pprint Data pretty printer",
+      "url": "https://docs.python.org/3/library/pprint.html",
+      "snippet": "Data pretty printer   Source code: Lib/pprint.py The module provides a capability to  pretty-print  arbitrary\nPython data structures in a form which can be used as input to the interpreter.\nIf the...",
+      "relevant": false
+    },
+    {
+      "doc_id": 12,
+      "title": "5.Data Structures",
+      "url": "https://docs.python.org/3/tutorial/datastructures.html",
+      "snippet": "5. Data Structures   This chapter describes some things you ve learned about already in more detail,\nand adds some new things as well. 5.1. More on Lists   The list data type has some more methods....",
+      "relevant": true
+    },
+    {
+      "doc_id": 52,
+      "title": "graphlib Functionality to operate with graph-like structures",
+      "url": "https://docs.python.org/3/library/graphlib.html",
+      "snippet": "Functionality to operate with graph-like structures   Source code: Lib/graphlib.py class graphlib. TopologicalSorter ( graph = None )   Provides functionality to topologically sort a graph of...",
+      "relevant": false
+    },
+    {
+      "doc_id": 78,
+      "title": "Thecompressionpackage",
+      "url": "https://docs.python.org/3/library/compression.html",
+      "snippet": "The package   Added in version 3.14. The package contains the canonical compression modules\ncontaining interfaces to several different compression algorithms. Some of\nthese modules have historically...",
+      "relevant": false
+    },
+    {
+      "doc_id": 2,
+      "title": "The Python Language Reference",
+      "url": "https://docs.python.org/3/reference/index.html",
+      "snippet": "The Python Language Reference   This reference manual describes the syntax and  core semantics  of the\nlanguage. It is terse, but attempts to be exact and complete. The semantics of\nnon-essential...",
+      "relevant": true
+    },
+    {
+      "doc_id": 6,
+      "title": "1.Whetting Your Appetite",
+      "url": "https://docs.python.org/3/tutorial/appetite.html",
+      "snippet": "1. Whetting Your Appetite   If you do much work on computers, eventually you find that there s some task\nyou d like to automate.  For example, you may wish to perform a\nsearch-and-replace over a...",
+      "relevant": false
+    }
+  ],
+  "python file read write": [
+    {
+      "doc_id": 2,
+      "title": "The Python Language Reference",
+      "url": "https://docs.python.org/3/reference/index.html",
+      "snippet": "The Python Language Reference   This reference manual describes the syntax and  core semantics  of the\nlanguage. It is terse, but attempts to be exact and complete. The semantics of\nnon-essential...",
+      "relevant": false
+    },
+    {
+      "doc_id": 71,
+      "title": "shutil High-level file operations",
+      "url": "https://docs.python.org/3/library/shutil.html",
+      "snippet": "High-level file operations   Source code: Lib/shutil.py The module offers a number of high-level operations on files and\ncollections of files.  In particular, functions are provided  which support...",
+      "relevant": true
+    },
+    {
+      "doc_id": 86,
+      "title": "csv CSV File Reading and Writing",
+      "url": "https://docs.python.org/3/library/csv.html",
+      "snippet": "CSV File Reading and Writing   Source code: Lib/csv.py The so-called CSV (Comma Separated Values) format is the most common import and\nexport format for spreadsheets and databases.  CSV format was...",
+      "relevant": true
+    },
+    {
+      "doc_id": 89,
+      "title": "netrc netrc file processing",
+      "url": "https://docs.python.org/3/library/netrc.html",
+      "snippet": "netrc file processing   Source code: Lib/netrc.py The class parses and encapsulates the netrc file format used by\nthe Unix ftp program and other FTP clients. class netrc. netrc ( [ file ] )   A...",
+      "relevant": false
+    },
+    {
+      "doc_id": 74,
+      "title": "shelve Python object persistence",
+      "url": "https://docs.python.org/3/library/shelve.html",
+      "snippet": "Python object persistence   Source code: Lib/shelve.py A  shelf  is a persistent, dictionary-like object.  The difference with  dbm \ndatabases is that the values (not the keys!) in a shelf can be...",
+      "relevant": false
+    },
+    {
+      "doc_id": 70,
+      "title": "linecache Random access to text lines",
+      "url": "https://docs.python.org/3/library/linecache.html",
+      "snippet": "Random access to text lines   Source code: Lib/linecache.py The module allows one to get any line from a Python source file, while\nattempting to optimize internally, using a cache, the common case...",
+      "relevant": true
+    },
+    {
+      "doc_id": 85,
+      "title": "tarfile Read and write tar archive files",
+      "url": "https://docs.python.org/3/library/tarfile.html",
+      "snippet": "Read and write tar archive files   Source code: Lib/tarfile.py The module makes it possible to read and write tar\narchives, including those using gzip, bz2 and lzma compression.\nUse the module to...",
+      "relevant": true
+    },
+    {
+      "doc_id": 0,
+      "title": "The Python Tutorial",
+      "url": "https://docs.python.org/3/tutorial/index.html",
+      "snippet": "The Python Tutorial   Tip This tutorial is designed for programmers that are new to the Python language, not beginners who are new to programming. Python is an easy to learn, powerful programming...",
+      "relevant": true
+    },
+    {
+      "doc_id": 88,
+      "title": "tomllib Parse TOML files",
+      "url": "https://docs.python.org/3/library/tomllib.html",
+      "snippet": "Parse TOML files   Added in version 3.11. Source code: Lib/tomllib This module provides an interface for parsing TOML 1.0.0 (Tom s Obvious Minimal\nLanguage, https://toml.io ). This module does...",
+      "relevant": true
+    },
+    {
+      "doc_id": 45,
+      "title": "array Efficient arrays of numeric values",
+      "url": "https://docs.python.org/3/library/array.html",
+      "snippet": "Efficient arrays of numeric values   This module defines an object type which can compactly represent an array of\nbasic values: characters, integers, floating-point numbers.  Arrays are mutable...",
+      "relevant": false
+    },
+    {
+      "doc_id": 75,
+      "title": "marshal Internal Python object serialization",
+      "url": "https://docs.python.org/3/library/marshal.html",
+      "snippet": "Internal Python object serialization   This module contains functions that can read and write Python values in a binary\nformat.  The format is specific to Python, but independent of...",
+      "relevant": false
+    },
+    {
+      "doc_id": 6,
+      "title": "1.Whetting Your Appetite",
+      "url": "https://docs.python.org/3/tutorial/appetite.html",
+      "snippet": "1. Whetting Your Appetite   If you do much work on computers, eventually you find that there s some task\nyou d like to automate.  For example, you may wish to perform a\nsearch-and-replace over a...",
+      "relevant": false
+    },
+    {
+      "doc_id": 90,
+      "title": "plistlib Generate and parse Apple.plistfiles",
+      "url": "https://docs.python.org/3/library/plistlib.html",
+      "snippet": "Generate and parse Apple files   Source code: Lib/plistlib.py This module provides an interface for reading and writing the  property list \nfiles used by Apple, primarily on macOS and iOS. This...",
+      "relevant": false
+    },
+    {
+      "doc_id": 67,
+      "title": "tempfile Generate temporary files and directories",
+      "url": "https://docs.python.org/3/library/tempfile.html",
+      "snippet": "Generate temporary files and directories   Source code: Lib/tempfile.py This module creates temporary files and directories.  It works on all\nsupported platforms. , , , and are high-level\ninterfaces...",
+      "relevant": true
+    },
+    {
+      "doc_id": 35,
+      "title": "rlcompleter Completion function for GNU readline",
+      "url": "https://docs.python.org/3/library/rlcompleter.html",
+      "snippet": "Completion function for GNU readline   Source code: Lib/rlcompleter.py The module defines a completion function suitable to be\npassed to in the module. When this module is imported on a Unix platform...",
+      "relevant": false
+    }
+  ],
+  "python error handling exceptions": [
+    {
+      "doc_id": 99,
+      "title": "logging.handlers Logging handlers",
+      "url": "https://docs.python.org/3/library/logging.handlers.html",
+      "snippet": "Logging handlers   Source code: Lib/logging/handlers.py Important This page contains only reference information. For tutorials,\nplease see Basic Tutorial Basic Tutorial Advanced Tutorial Advanced...",
+      "relevant": false
+    },
+    {
+      "doc_id": 18,
+      "title": "11.Brief tour of the standard library  part II",
+      "url": "https://docs.python.org/3/tutorial/stdlib2.html",
+      "snippet": "11. Brief tour of the standard library   part II   This second tour covers more advanced modules that support professional\nprogramming needs.  These modules rarely occur in small scripts. 11.1....",
+      "relevant": false
+    },
+    {
+      "doc_id": 15,
+      "title": "8.Errors and Exceptions",
+      "url": "https://docs.python.org/3/tutorial/errors.html",
+      "snippet": "8. Errors and Exceptions   Until now error messages haven t been more than mentioned, but if you have tried\nout the examples you have probably seen some.  There are (at least) two\ndistinguishable...",
+      "relevant": false
+    },
+    {
+      "doc_id": 70,
+      "title": "linecache Random access to text lines",
+      "url": "https://docs.python.org/3/library/linecache.html",
+      "snippet": "Random access to text lines   Source code: Lib/linecache.py The module allows one to get any line from a Python source file, while\nattempting to optimize internally, using a cache, the common case...",
+      "relevant": true
+    },
+    {
+      "doc_id": 97,
+      "title": "logging Logging facility for Python",
+      "url": "https://docs.python.org/3/library/logging.html",
+      "snippet": "Logging facility for Python   Source code: Lib/logging/__init__.py Important This page contains the API reference information. For tutorial\ninformation and discussion of more advanced topics, see...",
+      "relevant": false
+    },
+    {
+      "doc_id": 9,
+      "title": "2.Using the Python Interpreter",
+      "url": "https://docs.python.org/3/tutorial/interpreter.html",
+      "snippet": "2. Using the Python Interpreter   2.1. Invoking the Interpreter   The Python interpreter is usually installed as on those machines where it is available; putting in your\nUnix shell s search path...",
+      "relevant": false
+    },
+    {
+      "doc_id": 0,
+      "title": "The Python Tutorial",
+      "url": "https://docs.python.org/3/tutorial/index.html",
+      "snippet": "The Python Tutorial   Tip This tutorial is designed for programmers that are new to the Python language, not beginners who are new to programming. Python is an easy to learn, powerful programming...",
+      "relevant": true
+    },
+    {
+      "doc_id": 55,
+      "title": "cmath Mathematical functions for complex numbers",
+      "url": "https://docs.python.org/3/library/cmath.html",
+      "snippet": "Mathematical functions for complex numbers   This module provides access to mathematical functions for complex numbers.  The\nfunctions in this module accept integers, floating-point numbers or...",
+      "relevant": false
+    },
+    {
+      "doc_id": 25,
+      "title": "Built-in Exceptions",
+      "url": "https://docs.python.org/3/library/exceptions.html",
+      "snippet": "Built-in Exceptions   In Python, all exceptions must be instances of a class that derives from .  In a statement with an clause that mentions a particular class, that clause also handles any...",
+      "relevant": false
+    },
+    {
+      "doc_id": 74,
+      "title": "shelve Python object persistence",
+      "url": "https://docs.python.org/3/library/shelve.html",
+      "snippet": "Python object persistence   Source code: Lib/shelve.py A  shelf  is a persistent, dictionary-like object.  The difference with  dbm \ndatabases is that the values (not the keys!) in a shelf can be...",
+      "relevant": false
+    },
+    {
+      "doc_id": 81,
+      "title": "gzip Support forgzipfiles",
+      "url": "https://docs.python.org/3/library/gzip.html",
+      "snippet": "Support for gzip files   Source code: Lib/gzip.py This module provides a simple interface to compress and decompress files just\nlike the GNU programs gzip and gunzip would. This is an optional module...",
+      "relevant": true
+    },
+    {
+      "doc_id": 53,
+      "title": "numbers Numeric abstract base classes",
+      "url": "https://docs.python.org/3/library/numbers.html",
+      "snippet": "Numeric abstract base classes   Source code: Lib/numbers.py The module ( PEP 3141 ) defines a hierarchy of numeric abstract base classes which progressively define\nmore operations.  None of the types...",
+      "relevant": false
+    },
+    {
+      "doc_id": 56,
+      "title": "decimal Decimal fixed-point and floating-point arithmetic",
+      "url": "https://docs.python.org/3/library/decimal.html",
+      "snippet": "Decimal fixed-point and floating-point arithmetic   Source code: Lib/decimal.py The module provides support for fast correctly rounded\ndecimal floating-point arithmetic. It offers several advantages...",
+      "relevant": false
+    }
+  ],
+  "python classes and objects": [
+    {
+      "doc_id": 50,
+      "title": "reprlib Alternaterepr()implementation",
+      "url": "https://docs.python.org/3/library/reprlib.html",
+      "snippet": "Alternate implementation   Source code: Lib/reprlib.py The module provides a means for producing object representations\nwith limits on the size of the resulting strings. This is used in the...",
+      "relevant": false
+    },
+    {
+      "doc_id": 53,
+      "title": "numbers Numeric abstract base classes",
+      "url": "https://docs.python.org/3/library/numbers.html",
+      "snippet": "Numeric abstract base classes   Source code: Lib/numbers.py The module ( PEP 3141 ) defines a hierarchy of numeric abstract base classes which progressively define\nmore operations.  None of the types...",
+      "relevant": false
+    },
+    {
+      "doc_id": 73,
+      "title": "copyreg Registerpicklesupport functions",
+      "url": "https://docs.python.org/3/library/copyreg.html",
+      "snippet": "Register support functions   Source code: Lib/copyreg.py The module offers a way to define functions used while pickling\nspecific objects.  The and modules use those functions\nwhen pickling/copying...",
+      "relevant": false
+    },
+    {
+      "doc_id": 35,
+      "title": "rlcompleter Completion function for GNU readline",
+      "url": "https://docs.python.org/3/library/rlcompleter.html",
+      "snippet": "Completion function for GNU readline   Source code: Lib/rlcompleter.py The module defines a completion function suitable to be\npassed to in the module. When this module is imported on a Unix platform...",
+      "relevant": false
+    },
+    {
+      "doc_id": 8,
+      "title": "Python 3.14.5 documentation",
+      "url": "https://docs.python.org/3/index.html",
+      "snippet": "Python 3.14.5 documentation Welcome! This is the official documentation for Python 3.14.5. Documentation sections: What's new in Python 3.14? Or all \"What's new\" documents since Python 2.0 Tutorial...",
+      "relevant": false
+    },
+    {
+      "doc_id": 2,
+      "title": "The Python Language Reference",
+      "url": "https://docs.python.org/3/reference/index.html",
+      "snippet": "The Python Language Reference   This reference manual describes the syntax and  core semantics  of the\nlanguage. It is terse, but attempts to be exact and complete. The semantics of\nnon-essential...",
+      "relevant": false
+    },
+    {
+      "doc_id": 89,
+      "title": "netrc netrc file processing",
+      "url": "https://docs.python.org/3/library/netrc.html",
+      "snippet": "netrc file processing   Source code: Lib/netrc.py The class parses and encapsulates the netrc file format used by\nthe Unix ftp program and other FTP clients. class netrc. netrc ( [ file ] )   A...",
+      "relevant": false
+    },
+    {
+      "doc_id": 0,
+      "title": "The Python Tutorial",
+      "url": "https://docs.python.org/3/tutorial/index.html",
+      "snippet": "The Python Tutorial   Tip This tutorial is designed for programmers that are new to the Python language, not beginners who are new to programming. Python is an easy to learn, powerful programming...",
+      "relevant": true
+    },
+    {
+      "doc_id": 24,
+      "title": "Built-in Types",
+      "url": "https://docs.python.org/3/library/stdtypes.html",
+      "snippet": "Built-in Types   The following sections describe the standard types that are built into the\ninterpreter. The principal built-in types are numerics, sequences, mappings, classes,\ninstances and...",
+      "relevant": false
+    },
+    {
+      "doc_id": 75,
+      "title": "marshal Internal Python object serialization",
+      "url": "https://docs.python.org/3/library/marshal.html",
+      "snippet": "Internal Python object serialization   This module contains functions that can read and write Python values in a binary\nformat.  The format is specific to Python, but independent of...",
+      "relevant": false
+    },
+    {
+      "doc_id": 72,
+      "title": "pickle Python object serialization",
+      "url": "https://docs.python.org/3/library/pickle.html",
+      "snippet": "Python object serialization   Source code: Lib/pickle.py The module implements binary protocols for serializing and\nde-serializing a Python object structure.  Pickling  is the process\nwhereby a...",
+      "relevant": false
+    },
+    {
+      "doc_id": 38,
+      "title": "datetime Basic date and time types",
+      "url": "https://docs.python.org/3/library/datetime.html",
+      "snippet": "Basic date and time types   Source code: Lib/datetime.py The module supplies classes for manipulating dates and times. While date and time arithmetic is supported, the focus of the implementation...",
+      "relevant": false
+    },
+    {
+      "doc_id": 74,
+      "title": "shelve Python object persistence",
+      "url": "https://docs.python.org/3/library/shelve.html",
+      "snippet": "Python object persistence   Source code: Lib/shelve.py A  shelf  is a persistent, dictionary-like object.  The difference with  dbm \ndatabases is that the values (not the keys!) in a shelf can be...",
+      "relevant": false
+    },
+    {
+      "doc_id": 48,
+      "title": "copy Shallow and deep copy operations",
+      "url": "https://docs.python.org/3/library/copy.html",
+      "snippet": "Shallow and deep copy operations   Source code: Lib/copy.py Assignment statements in Python do not copy objects, they create bindings\nbetween a target and an object. For collections that are mutable...",
+      "relevant": false
+    },
+    {
+      "doc_id": 12,
+      "title": "5.Data Structures",
+      "url": "https://docs.python.org/3/tutorial/datastructures.html",
+      "snippet": "5. Data Structures   This chapter describes some things you ve learned about already in more detail,\nand adds some new things as well. 5.1. More on Lists   The list data type has some more methods....",
+      "relevant": false
+    },
+    {
+      "doc_id": 92,
+      "title": "hmac Keyed-Hashing for Message Authentication",
+      "url": "https://docs.python.org/3/library/hmac.html",
+      "snippet": "Keyed-Hashing for Message Authentication   Source code: Lib/hmac.py This module implements the HMAC algorithm as described by RFC 2104 .\nThe interface allows to use any hash function with a fixed...",
+      "relevant": false
+    }
+  ],
+  "python functions arguments": [
+    {
+      "doc_id": 87,
+      "title": "configparser Configuration file parser",
+      "url": "https://docs.python.org/3/library/configparser.html",
+      "snippet": "Configuration file parser   Source code: Lib/configparser.py This module provides the class which implements a basic\nconfiguration language which provides a structure similar to what s found...",
+      "relevant": true
+    },
+    {
+      "doc_id": 21,
+      "title": "10.Full Grammar specification",
+      "url": "https://docs.python.org/3/reference/grammar.html",
+      "snippet": "10. Full Grammar specification   This is the full Python grammar, derived directly from the grammar\nused to generate the CPython parser (see Grammar/python.gram ).\nThe version here omits details...",
+      "relevant": false
+    },
+    {
+      "doc_id": 27,
+      "title": "string Common string operations",
+      "url": "https://docs.python.org/3/library/string.html",
+      "snippet": "Common string operations   Source code: Lib/string/__init__.py See also Text Sequence Type   str String Methods String constants   The constants defined in this module are: string. ascii_letters  ...",
+      "relevant": false
+    },
+    {
+      "doc_id": 15,
+      "title": "8.Errors and Exceptions",
+      "url": "https://docs.python.org/3/tutorial/errors.html",
+      "snippet": "8. Errors and Exceptions   Until now error messages haven t been more than mentioned, but if you have tried\nout the examples you have probably seen some.  There are (at least) two\ndistinguishable...",
+      "relevant": false
+    },
+    {
+      "doc_id": 11,
+      "title": "4.More Control Flow Tools",
+      "url": "https://docs.python.org/3/tutorial/controlflow.html",
+      "snippet": "4. More Control Flow Tools   As well as the statement just introduced, Python uses a few more\nthat we will encounter in this chapter. 4.1. Statements   Perhaps the most well-known statement type is...",
+      "relevant": false
+    },
+    {
+      "doc_id": 17,
+      "title": "10.Brief tour of the standard library",
+      "url": "https://docs.python.org/3/tutorial/stdlib.html",
+      "snippet": "10. Brief tour of the standard library   10.1. Operating system interface   The module provides dozens of functions for interacting with the\noperating system: Be sure to use the style instead of . ...",
+      "relevant": true
+    },
+    {
+      "doc_id": 60,
+      "title": "itertools Functions creating iterators for efficient looping",
+      "url": "https://docs.python.org/3/library/itertools.html",
+      "snippet": "Functions creating iterators for efficient looping   This module implements a number of iterator building blocks inspired\nby constructs from APL, Haskell, and SML.  Each has been recast in a...",
+      "relevant": false
+    },
+    {
+      "doc_id": 58,
+      "title": "random Generate pseudo-random numbers",
+      "url": "https://docs.python.org/3/library/random.html",
+      "snippet": "Generate pseudo-random numbers   Source code: Lib/random.py This module implements pseudo-random number generators for various\ndistributions. For integers, there is uniform selection from a range....",
+      "relevant": false
+    },
+    {
+      "doc_id": 16,
+      "title": "9.Classes",
+      "url": "https://docs.python.org/3/tutorial/classes.html",
+      "snippet": "9. Classes   Classes provide a means of bundling data and functionality together.  Creating\na new class creates a new type of object, allowing new instances of that\ntype to be made.  Each class...",
+      "relevant": false
+    },
+    {
+      "doc_id": 13,
+      "title": "6.Modules",
+      "url": "https://docs.python.org/3/tutorial/modules.html",
+      "snippet": "6. Modules   If you quit from the Python interpreter and enter it again, the definitions you\nhave made (functions and variables) are lost. Therefore, if you want to write a\nsomewhat longer program,...",
+      "relevant": false
+    }
+  ],
+  "python string methods": [
+    {
+      "doc_id": 35,
+      "title": "rlcompleter Completion function for GNU readline",
+      "url": "https://docs.python.org/3/library/rlcompleter.html",
+      "snippet": "Completion function for GNU readline   Source code: Lib/rlcompleter.py The module defines a completion function suitable to be\npassed to in the module. When this module is imported on a Unix platform...",
+      "relevant": false
+    },
+    {
+      "doc_id": 10,
+      "title": "3.An Informal Introduction to Python",
+      "url": "https://docs.python.org/3/tutorial/introduction.html",
+      "snippet": "3. An Informal Introduction to Python   In the following examples, input and output are distinguished by the presence or\nabsence of prompts ( >>> and   ): to repeat the example, you must...",
+      "relevant": false
+    },
+    {
+      "doc_id": 89,
+      "title": "netrc netrc file processing",
+      "url": "https://docs.python.org/3/library/netrc.html",
+      "snippet": "netrc file processing   Source code: Lib/netrc.py The class parses and encapsulates the netrc file format used by\nthe Unix ftp program and other FTP clients. class netrc. netrc ( [ file ] )   A...",
+      "relevant": false
+    },
+    {
+      "doc_id": 0,
+      "title": "The Python Tutorial",
+      "url": "https://docs.python.org/3/tutorial/index.html",
+      "snippet": "The Python Tutorial   Tip This tutorial is designed for programmers that are new to the Python language, not beginners who are new to programming. Python is an easy to learn, powerful programming...",
+      "relevant": true
+    },
+    {
+      "doc_id": 38,
+      "title": "datetime Basic date and time types",
+      "url": "https://docs.python.org/3/library/datetime.html",
+      "snippet": "Basic date and time types   Source code: Lib/datetime.py The module supplies classes for manipulating dates and times. While date and time arithmetic is supported, the focus of the implementation...",
+      "relevant": false
+    },
+    {
+      "doc_id": 50,
+      "title": "reprlib Alternaterepr()implementation",
+      "url": "https://docs.python.org/3/library/reprlib.html",
+      "snippet": "Alternate implementation   Source code: Lib/reprlib.py The module provides a means for producing object representations\nwith limits on the size of the resulting strings. This is used in the...",
+      "relevant": false
+    },
+    {
+      "doc_id": 74,
+      "title": "shelve Python object persistence",
+      "url": "https://docs.python.org/3/library/shelve.html",
+      "snippet": "Python object persistence   Source code: Lib/shelve.py A  shelf  is a persistent, dictionary-like object.  The difference with  dbm \ndatabases is that the values (not the keys!) in a shelf can be...",
+      "relevant": false
+    },
+    {
+      "doc_id": 28,
+      "title": "string.templatelib Support for template string literals",
+      "url": "https://docs.python.org/3/library/string.templatelib.html",
+      "snippet": "Support for template string literals   Source code: Lib/string/templatelib.py See also Format strings Format strings Template string literal (t-string) syntax Template string literal (t-string)...",
+      "relevant": false
+    },
+    {
+      "doc_id": 75,
+      "title": "marshal Internal Python object serialization",
+      "url": "https://docs.python.org/3/library/marshal.html",
+      "snippet": "Internal Python object serialization   This module contains functions that can read and write Python values in a binary\nformat.  The format is specific to Python, but independent of...",
+      "relevant": false
+    },
+    {
+      "doc_id": 76,
+      "title": "dbm Interfaces to Unix databases",
+      "url": "https://docs.python.org/3/library/dbm.html",
+      "snippet": "Interfaces to Unix  databases    Source code: Lib/dbm/__init__.py is a generic interface to variants of the DBM database: If none of these modules are installed, the\nslow-but-simple implementation in...",
+      "relevant": false
+    },
+    {
+      "doc_id": 70,
+      "title": "linecache Random access to text lines",
+      "url": "https://docs.python.org/3/library/linecache.html",
+      "snippet": "Random access to text lines   Source code: Lib/linecache.py The module allows one to get any line from a Python source file, while\nattempting to optimize internally, using a cache, the common case...",
+      "relevant": true
+    },
+    {
+      "doc_id": 73,
+      "title": "copyreg Registerpicklesupport functions",
+      "url": "https://docs.python.org/3/library/copyreg.html",
+      "snippet": "Register support functions   Source code: Lib/copyreg.py The module offers a way to define functions used while pickling\nspecific objects.  The and modules use those functions\nwhen pickling/copying...",
+      "relevant": false
+    },
+    {
+      "doc_id": 92,
+      "title": "hmac Keyed-Hashing for Message Authentication",
+      "url": "https://docs.python.org/3/library/hmac.html",
+      "snippet": "Keyed-Hashing for Message Authentication   Source code: Lib/hmac.py This module implements the HMAC algorithm as described by RFC 2104 .\nThe interface allows to use any hash function with a fixed...",
+      "relevant": false
+    },
+    {
+      "doc_id": 27,
+      "title": "string Common string operations",
+      "url": "https://docs.python.org/3/library/string.html",
+      "snippet": "Common string operations   Source code: Lib/string/__init__.py See also Text Sequence Type   str String Methods String constants   The constants defined in this module are: string. ascii_letters  ...",
+      "relevant": false
+    },
+    {
+      "doc_id": 2,
+      "title": "The Python Language Reference",
+      "url": "https://docs.python.org/3/reference/index.html",
+      "snippet": "The Python Language Reference   This reference manual describes the syntax and  core semantics  of the\nlanguage. It is terse, but attempts to be exact and complete. The semantics of\nnon-essential...",
+      "relevant": false
+    }
+  ],
+  "python dictionary operations": [
+    {
+      "doc_id": 93,
+      "title": "secrets Generate secure random numbers for managing secrets",
+      "url": "https://docs.python.org/3/library/secrets.html",
+      "snippet": "Generate secure random numbers for managing secrets   Added in version 3.6. Source code: Lib/secrets.py The module is used for generating cryptographically strong\nrandom numbers suitable for managing...",
+      "relevant": false
+    },
+    {
+      "doc_id": 6,
+      "title": "1.Whetting Your Appetite",
+      "url": "https://docs.python.org/3/tutorial/appetite.html",
+      "snippet": "1. Whetting Your Appetite   If you do much work on computers, eventually you find that there s some task\nyou d like to automate.  For example, you may wish to perform a\nsearch-and-replace over a...",
+      "relevant": false
+    },
+    {
+      "doc_id": 24,
+      "title": "Built-in Types",
+      "url": "https://docs.python.org/3/library/stdtypes.html",
+      "snippet": "Built-in Types   The following sections describe the standard types that are built into the\ninterpreter. The principal built-in types are numerics, sequences, mappings, classes,\ninstances and...",
+      "relevant": false
+    },
+    {
+      "doc_id": 12,
+      "title": "5.Data Structures",
+      "url": "https://docs.python.org/3/tutorial/datastructures.html",
+      "snippet": "5. Data Structures   This chapter describes some things you ve learned about already in more detail,\nand adds some new things as well. 5.1. More on Lists   The list data type has some more methods....",
+      "relevant": false
+    },
+    {
+      "doc_id": 75,
+      "title": "marshal Internal Python object serialization",
+      "url": "https://docs.python.org/3/library/marshal.html",
+      "snippet": "Internal Python object serialization   This module contains functions that can read and write Python values in a binary\nformat.  The format is specific to Python, but independent of...",
+      "relevant": false
+    },
+    {
+      "doc_id": 60,
+      "title": "itertools Functions creating iterators for efficient looping",
+      "url": "https://docs.python.org/3/library/itertools.html",
+      "snippet": "Functions creating iterators for efficient looping   This module implements a number of iterator building blocks inspired\nby constructs from APL, Haskell, and SML.  Each has been recast in a...",
+      "relevant": false
+    },
+    {
+      "doc_id": 77,
+      "title": "sqlite3 DB-API 2.0 interface for SQLite databases",
+      "url": "https://docs.python.org/3/library/sqlite3.html",
+      "snippet": "DB-API 2.0 interface for SQLite databases   Source code: Lib/sqlite3/ SQLite is a C library that provides a lightweight disk-based database that\ndoesn t require a separate server process and allows...",
+      "relevant": true
+    },
+    {
+      "doc_id": 26,
+      "title": "Thread Safety Guarantees",
+      "url": "https://docs.python.org/3/library/threadsafety.html",
+      "snippet": "Thread Safety Guarantees   This page documents thread-safety guarantees for built-in types in Python s\nfree-threaded build. The guarantees described here apply when using Python with\nthe GIL disabled...",
+      "relevant": false
+    },
+    {
+      "doc_id": 48,
+      "title": "copy Shallow and deep copy operations",
+      "url": "https://docs.python.org/3/library/copy.html",
+      "snippet": "Shallow and deep copy operations   Source code: Lib/copy.py Assignment statements in Python do not copy objects, they create bindings\nbetween a target and an object. For collections that are mutable...",
+      "relevant": false
+    },
+    {
+      "doc_id": 66,
+      "title": "filecmp File and Directory Comparisons",
+      "url": "https://docs.python.org/3/library/filecmp.html",
+      "snippet": "File and Directory Comparisons   Source code: Lib/filecmp.py The module defines functions to compare files and directories,\nwith various optional time/correctness trade-offs. For comparing files,\nsee...",
+      "relevant": true
+    },
+    {
+      "doc_id": 18,
+      "title": "11.Brief tour of the standard library  part II",
+      "url": "https://docs.python.org/3/tutorial/stdlib2.html",
+      "snippet": "11. Brief tour of the standard library   part II   This second tour covers more advanced modules that support professional\nprogramming needs.  These modules rarely occur in small scripts. 11.1....",
+      "relevant": false
+    },
+    {
+      "doc_id": 72,
+      "title": "pickle Python object serialization",
+      "url": "https://docs.python.org/3/library/pickle.html",
+      "snippet": "Python object serialization   Source code: Lib/pickle.py The module implements binary protocols for serializing and\nde-serializing a Python object structure.  Pickling  is the process\nwhereby a...",
+      "relevant": false
+    },
+    {
+      "doc_id": 79,
+      "title": "compression.zstd Compression compatible with the Zstandard format",
+      "url": "https://docs.python.org/3/library/compression.zstd.html",
+      "snippet": "Compression compatible with the Zstandard format   Added in version 3.14. Source code: Lib/compression/zstd/__init__.py This module provides classes and functions for compressing and...",
+      "relevant": false
+    },
+    {
+      "doc_id": 46,
+      "title": "weakref Weak references",
+      "url": "https://docs.python.org/3/library/weakref.html",
+      "snippet": "Weak references   Source code: Lib/weakref.py The module allows the Python programmer to create weak\nreferences to objects. In the following, the term referent means the object which is referred...",
+      "relevant": false
+    }
+  ],
+  "python lambda map filter": [
+    {
+      "doc_id": 77,
+      "title": "sqlite3 DB-API 2.0 interface for SQLite databases",
+      "url": "https://docs.python.org/3/library/sqlite3.html",
+      "snippet": "DB-API 2.0 interface for SQLite databases   Source code: Lib/sqlite3/ SQLite is a C library that provides a lightweight disk-based database that\ndoesn t require a separate server process and allows...",
+      "relevant": true
+    },
+    {
+      "doc_id": 30,
+      "title": "difflib Helpers for computing deltas",
+      "url": "https://docs.python.org/3/library/difflib.html",
+      "snippet": "Helpers for computing deltas   Source code: Lib/difflib.py This module provides classes and functions for comparing sequences. It\ncan be used for example, for comparing files, and can produce...",
+      "relevant": true
+    },
+    {
+      "doc_id": 83,
+      "title": "lzma Compression using the LZMA algorithm",
+      "url": "https://docs.python.org/3/library/lzma.html",
+      "snippet": "Compression using the LZMA algorithm   Added in version 3.3. Source code: Lib/lzma.py This module provides classes and convenience functions for compressing and\ndecompressing data using the LZMA...",
+      "relevant": false
+    },
+    {
+      "doc_id": 85,
+      "title": "tarfile Read and write tar archive files",
+      "url": "https://docs.python.org/3/library/tarfile.html",
+      "snippet": "Read and write tar archive files   Source code: Lib/tarfile.py The module makes it possible to read and write tar\narchives, including those using gzip, bz2 and lzma compression.\nUse the module to...",
+      "relevant": true
+    },
+    {
+      "doc_id": 69,
+      "title": "fnmatch Unix filename pattern matching",
+      "url": "https://docs.python.org/3/library/fnmatch.html",
+      "snippet": "Unix filename pattern matching   Source code: Lib/fnmatch.py This module provides support for Unix shell-style wildcards, which are not the\nsame as regular expressions (which are documented in the...",
+      "relevant": true
+    },
+    {
+      "doc_id": 12,
+      "title": "5.Data Structures",
+      "url": "https://docs.python.org/3/tutorial/datastructures.html",
+      "snippet": "5. Data Structures   This chapter describes some things you ve learned about already in more detail,\nand adds some new things as well. 5.1. More on Lists   The list data type has some more methods....",
+      "relevant": false
+    },
+    {
+      "doc_id": 0,
+      "title": "The Python Tutorial",
+      "url": "https://docs.python.org/3/tutorial/index.html",
+      "snippet": "The Python Tutorial   Tip This tutorial is designed for programmers that are new to the Python language, not beginners who are new to programming. Python is an easy to learn, powerful programming...",
+      "relevant": true
+    },
+    {
+      "doc_id": 60,
+      "title": "itertools Functions creating iterators for efficient looping",
+      "url": "https://docs.python.org/3/library/itertools.html",
+      "snippet": "Functions creating iterators for efficient looping   This module implements a number of iterator building blocks inspired\nby constructs from APL, Haskell, and SML.  Each has been recast in a...",
+      "relevant": false
+    },
+    {
+      "doc_id": 44,
+      "title": "bisect Array bisection algorithm",
+      "url": "https://docs.python.org/3/library/bisect.html",
+      "snippet": "Array bisection algorithm   Source code: Lib/bisect.py This module provides support for maintaining a list in sorted order without\nhaving to sort the list after each insertion.  For long lists of...",
+      "relevant": false
+    },
+    {
+      "doc_id": 31,
+      "title": "textwrap Text wrapping and filling",
+      "url": "https://docs.python.org/3/library/textwrap.html",
+      "snippet": "Text wrapping and filling   Source code: Lib/textwrap.py The module provides some convenience functions,\nas well as , the class that does all the work.\nIf you re just wrapping or filling one or two...",
+      "relevant": false
+    },
+    {
+      "doc_id": 2,
+      "title": "The Python Language Reference",
+      "url": "https://docs.python.org/3/reference/index.html",
+      "snippet": "The Python Language Reference   This reference manual describes the syntax and  core semantics  of the\nlanguage. It is terse, but attempts to be exact and complete. The semantics of\nnon-essential...",
+      "relevant": false
+    },
+    {
+      "doc_id": 47,
+      "title": "types Dynamic type creation and names for built-in types",
+      "url": "https://docs.python.org/3/library/types.html",
+      "snippet": "Dynamic type creation and names for built-in types   Source code: Lib/types.py This module defines utility functions to assist in dynamic creation of\nnew types. It also defines names for some object...",
+      "relevant": false
+    },
+    {
+      "doc_id": 41,
+      "title": "collections Container datatypes",
+      "url": "https://docs.python.org/3/library/collections.html",
+      "snippet": "Container datatypes   Source code: Lib/collections/__init__.py This module implements specialized container datatypes providing alternatives to\nPython s general purpose built-in containers, , , , and...",
+      "relevant": false
+    },
+    {
+      "doc_id": 66,
+      "title": "filecmp File and Directory Comparisons",
+      "url": "https://docs.python.org/3/library/filecmp.html",
+      "snippet": "File and Directory Comparisons   Source code: Lib/filecmp.py The module defines functions to compare files and directories,\nwith various optional time/correctness trade-offs. For comparing files,\nsee...",
+      "relevant": true
+    }
+  ],
+  "python generators iterators": [
+    {
+      "doc_id": 60,
+      "title": "itertools Functions creating iterators for efficient looping",
+      "url": "https://docs.python.org/3/library/itertools.html",
+      "snippet": "Functions creating iterators for efficient looping   This module implements a number of iterator building blocks inspired\nby constructs from APL, Haskell, and SML.  Each has been recast in a...",
+      "relevant": false
+    },
+    {
+      "doc_id": 21,
+      "title": "10.Full Grammar specification",
+      "url": "https://docs.python.org/3/reference/grammar.html",
+      "snippet": "10. Full Grammar specification   This is the full Python grammar, derived directly from the grammar\nused to generate the CPython parser (see Grammar/python.gram ).\nThe version here omits details...",
+      "relevant": false
+    },
+    {
+      "doc_id": 26,
+      "title": "Thread Safety Guarantees",
+      "url": "https://docs.python.org/3/library/threadsafety.html",
+      "snippet": "Thread Safety Guarantees   This page documents thread-safety guarantees for built-in types in Python s\nfree-threaded build. The guarantees described here apply when using Python with\nthe GIL disabled...",
+      "relevant": false
+    },
+    {
+      "doc_id": 68,
+      "title": "glob Unix style pathname pattern expansion",
+      "url": "https://docs.python.org/3/library/glob.html",
+      "snippet": "Unix style pathname pattern expansion   Source code: Lib/glob.py The module finds pathnames\nusing pattern matching rules similar to the Unix shell.\nNo tilde expansion is done, but , , and...",
+      "relevant": true
+    },
+    {
+      "doc_id": 41,
+      "title": "collections Container datatypes",
+      "url": "https://docs.python.org/3/library/collections.html",
+      "snippet": "Container datatypes   Source code: Lib/collections/__init__.py This module implements specialized container datatypes providing alternatives to\nPython s general purpose built-in containers, , , , and...",
+      "relevant": false
+    },
+    {
+      "doc_id": 35,
+      "title": "rlcompleter Completion function for GNU readline",
+      "url": "https://docs.python.org/3/library/rlcompleter.html",
+      "snippet": "Completion function for GNU readline   Source code: Lib/rlcompleter.py The module defines a completion function suitable to be\npassed to in the module. When this module is imported on a Unix platform...",
+      "relevant": false
+    },
+    {
+      "doc_id": 69,
+      "title": "fnmatch Unix filename pattern matching",
+      "url": "https://docs.python.org/3/library/fnmatch.html",
+      "snippet": "Unix filename pattern matching   Source code: Lib/fnmatch.py This module provides support for Unix shell-style wildcards, which are not the\nsame as regular expressions (which are documented in the...",
+      "relevant": true
+    },
+    {
+      "doc_id": 58,
+      "title": "random Generate pseudo-random numbers",
+      "url": "https://docs.python.org/3/library/random.html",
+      "snippet": "Generate pseudo-random numbers   Source code: Lib/random.py This module implements pseudo-random number generators for various\ndistributions. For integers, there is uniform selection from a range....",
+      "relevant": false
+    },
+    {
+      "doc_id": 8,
+      "title": "Python 3.14.5 documentation",
+      "url": "https://docs.python.org/3/index.html",
+      "snippet": "Python 3.14.5 documentation Welcome! This is the official documentation for Python 3.14.5. Documentation sections: What's new in Python 3.14? Or all \"What's new\" documents since Python 2.0 Tutorial...",
+      "relevant": false
+    },
+    {
+      "doc_id": 90,
+      "title": "plistlib Generate and parse Apple.plistfiles",
+      "url": "https://docs.python.org/3/library/plistlib.html",
+      "snippet": "Generate and parse Apple files   Source code: Lib/plistlib.py This module provides an interface for reading and writing the  property list \nfiles used by Apple, primarily on macOS and iOS. This...",
+      "relevant": false
+    },
+    {
+      "doc_id": 81,
+      "title": "gzip Support forgzipfiles",
+      "url": "https://docs.python.org/3/library/gzip.html",
+      "snippet": "Support for gzip files   Source code: Lib/gzip.py This module provides a simple interface to compress and decompress files just\nlike the GNU programs gzip and gunzip would. This is an optional module...",
+      "relevant": true
+    },
+    {
+      "doc_id": 76,
+      "title": "dbm Interfaces to Unix databases",
+      "url": "https://docs.python.org/3/library/dbm.html",
+      "snippet": "Interfaces to Unix  databases    Source code: Lib/dbm/__init__.py is a generic interface to variants of the DBM database: If none of these modules are installed, the\nslow-but-simple implementation in...",
+      "relevant": false
+    },
+    {
+      "doc_id": 40,
+      "title": "calendar General calendar-related functions",
+      "url": "https://docs.python.org/3/library/calendar.html",
+      "snippet": "General calendar-related functions   Source code: Lib/calendar.py This module allows you to output calendars like the Unix cal program,\nand provides additional useful functions related to the...",
+      "relevant": false
+    },
+    {
+      "doc_id": 0,
+      "title": "The Python Tutorial",
+      "url": "https://docs.python.org/3/tutorial/index.html",
+      "snippet": "The Python Tutorial   Tip This tutorial is designed for programmers that are new to the Python language, not beginners who are new to programming. Python is an easy to learn, powerful programming...",
+      "relevant": true
+    }
+  ],
+  "python decorators": [
+    {
+      "doc_id": 41,
+      "title": "collections Container datatypes",
+      "url": "https://docs.python.org/3/library/collections.html",
+      "snippet": "Container datatypes   Source code: Lib/collections/__init__.py This module implements specialized container datatypes providing alternatives to\nPython s general purpose built-in containers, , , , and...",
+      "relevant": false
+    },
+    {
+      "doc_id": 24,
+      "title": "Built-in Types",
+      "url": "https://docs.python.org/3/library/stdtypes.html",
+      "snippet": "Built-in Types   The following sections describe the standard types that are built into the\ninterpreter. The principal built-in types are numerics, sequences, mappings, classes,\ninstances and...",
+      "relevant": false
+    },
+    {
+      "doc_id": 22,
+      "title": "Built-in Functions",
+      "url": "https://docs.python.org/3/library/functions.html",
+      "snippet": "Built-in Functions   The Python interpreter has a number of functions and types built into it that\nare always available.  They are listed here in alphabetical order. Built-in Functions Built-in...",
+      "relevant": true
+    },
+    {
+      "doc_id": 95,
+      "title": "io Core tools for working with streams",
+      "url": "https://docs.python.org/3/library/io.html",
+      "snippet": "Core tools for working with streams   Source code: Lib/io.py Overview   The module provides Python s main facilities for dealing with various\ntypes of I/O.  There are three main types of I/O: text...",
+      "relevant": true
+    },
+    {
+      "doc_id": 8,
+      "title": "Python 3.14.5 documentation",
+      "url": "https://docs.python.org/3/index.html",
+      "snippet": "Python 3.14.5 documentation Welcome! This is the official documentation for Python 3.14.5. Documentation sections: What's new in Python 3.14? Or all \"What's new\" documents since Python 2.0 Tutorial...",
+      "relevant": false
+    },
+    {
+      "doc_id": 2,
+      "title": "The Python Language Reference",
+      "url": "https://docs.python.org/3/reference/index.html",
+      "snippet": "The Python Language Reference   This reference manual describes the syntax and  core semantics  of the\nlanguage. It is terse, but attempts to be exact and complete. The semantics of\nnon-essential...",
+      "relevant": false
+    },
+    {
+      "doc_id": 42,
+      "title": "collections.abc Abstract Base Classes for Containers",
+      "url": "https://docs.python.org/3/library/collections.abc.html",
+      "snippet": "Abstract Base Classes for Containers   Added in version 3.3: Formerly, this module was part of the module. Source code: Lib/_collections_abc.py This module provides abstract base classes that\ncan be...",
+      "relevant": false
+    },
+    {
+      "doc_id": 73,
+      "title": "copyreg Registerpicklesupport functions",
+      "url": "https://docs.python.org/3/library/copyreg.html",
+      "snippet": "Register support functions   Source code: Lib/copyreg.py The module offers a way to define functions used while pickling\nspecific objects.  The and modules use those functions\nwhen pickling/copying...",
+      "relevant": false
+    },
+    {
+      "doc_id": 61,
+      "title": "functools Higher-order functions and operations on callable objects",
+      "url": "https://docs.python.org/3/library/functools.html",
+      "snippet": "Higher-order functions and operations on callable objects   Source code: Lib/functools.py The module is for higher-order functions: functions that act on\nor return other functions. In general, any...",
+      "relevant": false
+    },
+    {
+      "doc_id": 51,
+      "title": "enum Support for enumerations",
+      "url": "https://docs.python.org/3/library/enum.html",
+      "snippet": "Support for enumerations   Added in version 3.4. Source code: Lib/enum.py Important This page contains the API reference information. For tutorial\ninformation and discussion of more advanced topics,...",
+      "relevant": false
+    },
+    {
+      "doc_id": 21,
+      "title": "10.Full Grammar specification",
+      "url": "https://docs.python.org/3/reference/grammar.html",
+      "snippet": "10. Full Grammar specification   This is the full Python grammar, derived directly from the grammar\nused to generate the CPython parser (see Grammar/python.gram ).\nThe version here omits details...",
+      "relevant": false
+    },
+    {
+      "doc_id": 50,
+      "title": "reprlib Alternaterepr()implementation",
+      "url": "https://docs.python.org/3/library/reprlib.html",
+      "snippet": "Alternate implementation   Source code: Lib/reprlib.py The module provides a means for producing object representations\nwith limits on the size of the resulting strings. This is used in the...",
+      "relevant": false
+    }
+  ],
+  "python modules import packages": [
+    {
+      "doc_id": 13,
+      "title": "6.Modules",
+      "url": "https://docs.python.org/3/tutorial/modules.html",
+      "snippet": "6. Modules   If you quit from the Python interpreter and enter it again, the definitions you\nhave made (functions and variables) are lost. Therefore, if you want to write a\nsomewhat longer program,...",
+      "relevant": false
+    },
+    {
+      "doc_id": 19,
+      "title": "12.Virtual Environments and Packages",
+      "url": "https://docs.python.org/3/tutorial/venv.html",
+      "snippet": "12. Virtual Environments and Packages   12.1. Introduction   Python applications will often use packages and modules that don t\ncome as part of the standard library.  Applications will sometimes\nneed...",
+      "relevant": false
+    },
+    {
+      "doc_id": 2,
+      "title": "The Python Language Reference",
+      "url": "https://docs.python.org/3/reference/index.html",
+      "snippet": "The Python Language Reference   This reference manual describes the syntax and  core semantics  of the\nlanguage. It is terse, but attempts to be exact and complete. The semantics of\nnon-essential...",
+      "relevant": false
+    },
+    {
+      "doc_id": 8,
+      "title": "Python 3.14.5 documentation",
+      "url": "https://docs.python.org/3/index.html",
+      "snippet": "Python 3.14.5 documentation Welcome! This is the official documentation for Python 3.14.5. Documentation sections: What's new in Python 3.14? Or all \"What's new\" documents since Python 2.0 Tutorial...",
+      "relevant": false
+    },
+    {
+      "doc_id": 0,
+      "title": "The Python Tutorial",
+      "url": "https://docs.python.org/3/tutorial/index.html",
+      "snippet": "The Python Tutorial   Tip This tutorial is designed for programmers that are new to the Python language, not beginners who are new to programming. Python is an easy to learn, powerful programming...",
+      "relevant": true
+    },
+    {
+      "doc_id": 45,
+      "title": "array Efficient arrays of numeric values",
+      "url": "https://docs.python.org/3/library/array.html",
+      "snippet": "Efficient arrays of numeric values   This module defines an object type which can compactly represent an array of\nbasic values: characters, integers, floating-point numbers.  Arrays are mutable...",
+      "relevant": false
+    },
+    {
+      "doc_id": 78,
+      "title": "Thecompressionpackage",
+      "url": "https://docs.python.org/3/library/compression.html",
+      "snippet": "The package   Added in version 3.14. The package contains the canonical compression modules\ncontaining interfaces to several different compression algorithms. Some of\nthese modules have historically...",
+      "relevant": false
+    },
+    {
+      "doc_id": 88,
+      "title": "tomllib Parse TOML files",
+      "url": "https://docs.python.org/3/library/tomllib.html",
+      "snippet": "Parse TOML files   Added in version 3.11. Source code: Lib/tomllib This module provides an interface for parsing TOML 1.0.0 (Tom s Obvious Minimal\nLanguage, https://toml.io ). This module does...",
+      "relevant": true
+    },
+    {
+      "doc_id": 46,
+      "title": "weakref Weak references",
+      "url": "https://docs.python.org/3/library/weakref.html",
+      "snippet": "Weak references   Source code: Lib/weakref.py The module allows the Python programmer to create weak\nreferences to objects. In the following, the term referent means the object which is referred...",
+      "relevant": false
+    },
+    {
+      "doc_id": 74,
+      "title": "shelve Python object persistence",
+      "url": "https://docs.python.org/3/library/shelve.html",
+      "snippet": "Python object persistence   Source code: Lib/shelve.py A  shelf  is a persistent, dictionary-like object.  The difference with  dbm \ndatabases is that the values (not the keys!) in a shelf can be...",
+      "relevant": false
+    },
+    {
+      "doc_id": 25,
+      "title": "Built-in Exceptions",
+      "url": "https://docs.python.org/3/library/exceptions.html",
+      "snippet": "Built-in Exceptions   In Python, all exceptions must be instances of a class that derives from .  In a statement with an clause that mentions a particular class, that clause also handles any...",
+      "relevant": false
+    }
+  ],
+  "python sorting algorithms": [
+    {
+      "doc_id": 92,
+      "title": "hmac Keyed-Hashing for Message Authentication",
+      "url": "https://docs.python.org/3/library/hmac.html",
+      "snippet": "Keyed-Hashing for Message Authentication   Source code: Lib/hmac.py This module implements the HMAC algorithm as described by RFC 2104 .\nThe interface allows to use any hash function with a fixed...",
+      "relevant": false
+    },
+    {
+      "doc_id": 91,
+      "title": "hashlib Secure hashes and message digests",
+      "url": "https://docs.python.org/3/library/hashlib.html",
+      "snippet": "Secure hashes and message digests   Source code: Lib/hashlib.py This module implements a common interface to many different hash algorithms.\nIncluded are the FIPS secure hash algorithms SHA224,...",
+      "relevant": false
+    },
+    {
+      "doc_id": 60,
+      "title": "itertools Functions creating iterators for efficient looping",
+      "url": "https://docs.python.org/3/library/itertools.html",
+      "snippet": "Functions creating iterators for efficient looping   This module implements a number of iterator building blocks inspired\nby constructs from APL, Haskell, and SML.  Each has been recast in a...",
+      "relevant": false
+    },
+    {
+      "doc_id": 44,
+      "title": "bisect Array bisection algorithm",
+      "url": "https://docs.python.org/3/library/bisect.html",
+      "snippet": "Array bisection algorithm   Source code: Lib/bisect.py This module provides support for maintaining a list in sorted order without\nhaving to sort the list after each insertion.  For long lists of...",
+      "relevant": false
+    },
+    {
+      "doc_id": 59,
+      "title": "statistics Mathematical statistics functions",
+      "url": "https://docs.python.org/3/library/statistics.html",
+      "snippet": "Mathematical statistics functions   Added in version 3.4. Source code: Lib/statistics.py This module provides functions for calculating mathematical statistics of\nnumeric ( -valued) data. The module...",
+      "relevant": false
+    },
+    {
+      "doc_id": 68,
+      "title": "glob Unix style pathname pattern expansion",
+      "url": "https://docs.python.org/3/library/glob.html",
+      "snippet": "Unix style pathname pattern expansion   Source code: Lib/glob.py The module finds pathnames\nusing pattern matching rules similar to the Unix shell.\nNo tilde expansion is done, but , , and...",
+      "relevant": true
+    },
+    {
+      "doc_id": 30,
+      "title": "difflib Helpers for computing deltas",
+      "url": "https://docs.python.org/3/library/difflib.html",
+      "snippet": "Helpers for computing deltas   Source code: Lib/difflib.py This module provides classes and functions for comparing sequences. It\ncan be used for example, for comparing files, and can produce...",
+      "relevant": true
+    },
+    {
+      "doc_id": 84,
+      "title": "zipfile Work with ZIP archives",
+      "url": "https://docs.python.org/3/library/zipfile.html",
+      "snippet": "Work with ZIP archives   Source code: Lib/zipfile/ The ZIP file format is a common archive and compression standard. This module\nprovides tools to create, read, write, append, and list a ZIP file. ...",
+      "relevant": true
+    },
+    {
+      "doc_id": 90,
+      "title": "plistlib Generate and parse Apple.plistfiles",
+      "url": "https://docs.python.org/3/library/plistlib.html",
+      "snippet": "Generate and parse Apple files   Source code: Lib/plistlib.py This module provides an interface for reading and writing the  property list \nfiles used by Apple, primarily on macOS and iOS. This...",
+      "relevant": false
+    },
+    {
+      "doc_id": 43,
+      "title": "heapq Heap queue algorithm",
+      "url": "https://docs.python.org/3/library/heapq.html",
+      "snippet": "Heap queue algorithm   Source code: Lib/heapq.py This module provides an implementation of the heap queue algorithm, also known\nas the priority queue algorithm. Min-heaps are binary trees for which...",
+      "relevant": false
+    },
+    {
+      "doc_id": 52,
+      "title": "graphlib Functionality to operate with graph-like structures",
+      "url": "https://docs.python.org/3/library/graphlib.html",
+      "snippet": "Functionality to operate with graph-like structures   Source code: Lib/graphlib.py class graphlib. TopologicalSorter ( graph = None )   Provides functionality to topologically sort a graph of...",
+      "relevant": false
+    },
+    {
+      "doc_id": 56,
+      "title": "decimal Decimal fixed-point and floating-point arithmetic",
+      "url": "https://docs.python.org/3/library/decimal.html",
+      "snippet": "Decimal fixed-point and floating-point arithmetic   Source code: Lib/decimal.py The module provides support for fast correctly rounded\ndecimal floating-point arithmetic. It offers several advantages...",
+      "relevant": false
+    },
+    {
+      "doc_id": 78,
+      "title": "Thecompressionpackage",
+      "url": "https://docs.python.org/3/library/compression.html",
+      "snippet": "The package   Added in version 3.14. The package contains the canonical compression modules\ncontaining interfaces to several different compression algorithms. Some of\nthese modules have historically...",
+      "relevant": false
+    },
+    {
+      "doc_id": 83,
+      "title": "lzma Compression using the LZMA algorithm",
+      "url": "https://docs.python.org/3/library/lzma.html",
+      "snippet": "Compression using the LZMA algorithm   Added in version 3.3. Source code: Lib/lzma.py This module provides classes and convenience functions for compressing and\ndecompressing data using the LZMA...",
+      "relevant": false
+    }
+  ],
+  "python regex regular expressions": [
+    {
+      "doc_id": 42,
+      "title": "collections.abc Abstract Base Classes for Containers",
+      "url": "https://docs.python.org/3/library/collections.abc.html",
+      "snippet": "Abstract Base Classes for Containers   Added in version 3.3: Formerly, this module was part of the module. Source code: Lib/_collections_abc.py This module provides abstract base classes that\ncan be...",
+      "relevant": false
+    },
+    {
+      "doc_id": 35,
+      "title": "rlcompleter Completion function for GNU readline",
+      "url": "https://docs.python.org/3/library/rlcompleter.html",
+      "snippet": "Completion function for GNU readline   Source code: Lib/rlcompleter.py The module defines a completion function suitable to be\npassed to in the module. When this module is imported on a Unix platform...",
+      "relevant": false
+    },
+    {
+      "doc_id": 68,
+      "title": "glob Unix style pathname pattern expansion",
+      "url": "https://docs.python.org/3/library/glob.html",
+      "snippet": "Unix style pathname pattern expansion   Source code: Lib/glob.py The module finds pathnames\nusing pattern matching rules similar to the Unix shell.\nNo tilde expansion is done, but , , and...",
+      "relevant": true
+    },
+    {
+      "doc_id": 21,
+      "title": "10.Full Grammar specification",
+      "url": "https://docs.python.org/3/reference/grammar.html",
+      "snippet": "10. Full Grammar specification   This is the full Python grammar, derived directly from the grammar\nused to generate the CPython parser (see Grammar/python.gram ).\nThe version here omits details...",
+      "relevant": false
+    },
+    {
+      "doc_id": 81,
+      "title": "gzip Support forgzipfiles",
+      "url": "https://docs.python.org/3/library/gzip.html",
+      "snippet": "Support for gzip files   Source code: Lib/gzip.py This module provides a simple interface to compress and decompress files just\nlike the GNU programs gzip and gunzip would. This is an optional module...",
+      "relevant": true
+    },
+    {
+      "doc_id": 46,
+      "title": "weakref Weak references",
+      "url": "https://docs.python.org/3/library/weakref.html",
+      "snippet": "Weak references   Source code: Lib/weakref.py The module allows the Python programmer to create weak\nreferences to objects. In the following, the term referent means the object which is referred...",
+      "relevant": false
+    },
+    {
+      "doc_id": 29,
+      "title": "re Regular expression operations",
+      "url": "https://docs.python.org/3/library/re.html",
+      "snippet": "Regular expression operations   Source code: Lib/re/ This module provides regular expression matching operations similar to\nthose found in Perl. Both patterns and strings to be searched can be...",
+      "relevant": false
+    },
+    {
+      "doc_id": 69,
+      "title": "fnmatch Unix filename pattern matching",
+      "url": "https://docs.python.org/3/library/fnmatch.html",
+      "snippet": "Unix filename pattern matching   Source code: Lib/fnmatch.py This module provides support for Unix shell-style wildcards, which are not the\nsame as regular expressions (which are documented in the...",
+      "relevant": true
+    },
+    {
+      "doc_id": 2,
+      "title": "The Python Language Reference",
+      "url": "https://docs.python.org/3/reference/index.html",
+      "snippet": "The Python Language Reference   This reference manual describes the syntax and  core semantics  of the\nlanguage. It is terse, but attempts to be exact and complete. The semantics of\nnon-essential...",
+      "relevant": false
+    },
+    {
+      "doc_id": 51,
+      "title": "enum Support for enumerations",
+      "url": "https://docs.python.org/3/library/enum.html",
+      "snippet": "Support for enumerations   Added in version 3.4. Source code: Lib/enum.py Important This page contains the API reference information. For tutorial\ninformation and discussion of more advanced topics,...",
+      "relevant": false
+    },
+    {
+      "doc_id": 1,
+      "title": "The Python Standard Library",
+      "url": "https://docs.python.org/3/library/index.html",
+      "snippet": "The Python Standard Library   While The Python Language Reference describes the exact syntax and\nsemantics of the Python language, this library reference manual\ndescribes the standard library that is...",
+      "relevant": false
+    },
+    {
+      "doc_id": 28,
+      "title": "string.templatelib Support for template string literals",
+      "url": "https://docs.python.org/3/library/string.templatelib.html",
+      "snippet": "Support for template string literals   Source code: Lib/string/templatelib.py See also Format strings Format strings Template string literal (t-string) syntax Template string literal (t-string)...",
+      "relevant": false
+    },
+    {
+      "doc_id": 24,
+      "title": "Built-in Types",
+      "url": "https://docs.python.org/3/library/stdtypes.html",
+      "snippet": "Built-in Types   The following sections describe the standard types that are built into the\ninterpreter. The principal built-in types are numerics, sequences, mappings, classes,\ninstances and...",
+      "relevant": false
+    }
+  ],
+  "python json parsing": [
+    {
+      "doc_id": 49,
+      "title": "pprint Data pretty printer",
+      "url": "https://docs.python.org/3/library/pprint.html",
+      "snippet": "Data pretty printer   Source code: Lib/pprint.py The module provides a capability to  pretty-print  arbitrary\nPython data structures in a form which can be used as input to the interpreter.\nIf the...",
+      "relevant": false
+    },
+    {
+      "doc_id": 90,
+      "title": "plistlib Generate and parse Apple.plistfiles",
+      "url": "https://docs.python.org/3/library/plistlib.html",
+      "snippet": "Generate and parse Apple files   Source code: Lib/plistlib.py This module provides an interface for reading and writing the  property list \nfiles used by Apple, primarily on macOS and iOS. This...",
+      "relevant": false
+    },
+    {
+      "doc_id": 14,
+      "title": "7.Input and Output",
+      "url": "https://docs.python.org/3/tutorial/inputoutput.html",
+      "snippet": "7. Input and Output   There are several ways to present the output of a program; data can be printed\nin a human-readable form, or written to a file for future use. This chapter will\ndiscuss some of...",
+      "relevant": true
+    },
+    {
+      "doc_id": 0,
+      "title": "The Python Tutorial",
+      "url": "https://docs.python.org/3/tutorial/index.html",
+      "snippet": "The Python Tutorial   Tip This tutorial is designed for programmers that are new to the Python language, not beginners who are new to programming. Python is an easy to learn, powerful programming...",
+      "relevant": true
+    },
+    {
+      "doc_id": 89,
+      "title": "netrc netrc file processing",
+      "url": "https://docs.python.org/3/library/netrc.html",
+      "snippet": "netrc file processing   Source code: Lib/netrc.py The class parses and encapsulates the netrc file format used by\nthe Unix ftp program and other FTP clients. class netrc. netrc ( [ file ] )   A...",
+      "relevant": false
+    },
+    {
+      "doc_id": 87,
+      "title": "configparser Configuration file parser",
+      "url": "https://docs.python.org/3/library/configparser.html",
+      "snippet": "Configuration file parser   Source code: Lib/configparser.py This module provides the class which implements a basic\nconfiguration language which provides a structure similar to what s found...",
+      "relevant": true
+    },
+    {
+      "doc_id": 21,
+      "title": "10.Full Grammar specification",
+      "url": "https://docs.python.org/3/reference/grammar.html",
+      "snippet": "10. Full Grammar specification   This is the full Python grammar, derived directly from the grammar\nused to generate the CPython parser (see Grammar/python.gram ).\nThe version here omits details...",
+      "relevant": false
+    },
+    {
+      "doc_id": 1,
+      "title": "The Python Standard Library",
+      "url": "https://docs.python.org/3/library/index.html",
+      "snippet": "The Python Standard Library   While The Python Language Reference describes the exact syntax and\nsemantics of the Python language, this library reference manual\ndescribes the standard library that is...",
+      "relevant": false
+    },
+    {
+      "doc_id": 98,
+      "title": "logging.config Logging configuration",
+      "url": "https://docs.python.org/3/library/logging.config.html",
+      "snippet": "Logging configuration   Source code: Lib/logging/config.py Important This page contains only reference information. For tutorials,\nplease see Basic Tutorial Basic Tutorial Advanced Tutorial Advanced...",
+      "relevant": false
+    },
+    {
+      "doc_id": 88,
+      "title": "tomllib Parse TOML files",
+      "url": "https://docs.python.org/3/library/tomllib.html",
+      "snippet": "Parse TOML files   Added in version 3.11. Source code: Lib/tomllib This module provides an interface for parsing TOML 1.0.0 (Tom s Obvious Minimal\nLanguage, https://toml.io ). This module does...",
+      "relevant": true
+    },
+    {
+      "doc_id": 17,
+      "title": "10.Brief tour of the standard library",
+      "url": "https://docs.python.org/3/tutorial/stdlib.html",
+      "snippet": "10. Brief tour of the standard library   10.1. Operating system interface   The module provides dozens of functions for interacting with the\noperating system: Be sure to use the style instead of . ...",
+      "relevant": true
+    }
+  ],
+  "async await javascript promise": [
+    {
+      "doc_id": 24,
+      "title": "Built-in Types",
+      "url": "https://docs.python.org/3/library/stdtypes.html",
+      "snippet": "Built-in Types   The following sections describe the standard types that are built into the\ninterpreter. The principal built-in types are numerics, sequences, mappings, classes,\ninstances and...",
+      "relevant": false
+    },
+    {
+      "doc_id": 47,
+      "title": "types Dynamic type creation and names for built-in types",
+      "url": "https://docs.python.org/3/library/types.html",
+      "snippet": "Dynamic type creation and names for built-in types   Source code: Lib/types.py This module defines utility functions to assist in dynamic creation of\nnew types. It also defines names for some object...",
+      "relevant": false
+    },
+    {
+      "doc_id": 21,
+      "title": "10.Full Grammar specification",
+      "url": "https://docs.python.org/3/reference/grammar.html",
+      "snippet": "10. Full Grammar specification   This is the full Python grammar, derived directly from the grammar\nused to generate the CPython parser (see Grammar/python.gram ).\nThe version here omits details...",
+      "relevant": false
+    },
+    {
+      "doc_id": 61,
+      "title": "functools Higher-order functions and operations on callable objects",
+      "url": "https://docs.python.org/3/library/functools.html",
+      "snippet": "Higher-order functions and operations on callable objects   Source code: Lib/functools.py The module is for higher-order functions: functions that act on\nor return other functions. In general, any...",
+      "relevant": false
+    },
+    {
+      "doc_id": 87,
+      "title": "configparser Configuration file parser",
+      "url": "https://docs.python.org/3/library/configparser.html",
+      "snippet": "Configuration file parser   Source code: Lib/configparser.py This module provides the class which implements a basic\nconfiguration language which provides a structure similar to what s found...",
+      "relevant": true
+    },
+    {
+      "doc_id": 11,
+      "title": "4.More Control Flow Tools",
+      "url": "https://docs.python.org/3/tutorial/controlflow.html",
+      "snippet": "4. More Control Flow Tools   As well as the statement just introduced, Python uses a few more\nthat we will encounter in this chapter. 4.1. Statements   Perhaps the most well-known statement type is...",
+      "relevant": false
+    },
+    {
+      "doc_id": 18,
+      "title": "11.Brief tour of the standard library  part II",
+      "url": "https://docs.python.org/3/tutorial/stdlib2.html",
+      "snippet": "11. Brief tour of the standard library   part II   This second tour covers more advanced modules that support professional\nprogramming needs.  These modules rarely occur in small scripts. 11.1....",
+      "relevant": false
+    },
+    {
+      "doc_id": 42,
+      "title": "collections.abc Abstract Base Classes for Containers",
+      "url": "https://docs.python.org/3/library/collections.abc.html",
+      "snippet": "Abstract Base Classes for Containers   Added in version 3.3: Formerly, this module was part of the module. Source code: Lib/_collections_abc.py This module provides abstract base classes that\ncan be...",
+      "relevant": false
+    },
+    {
+      "doc_id": 72,
+      "title": "pickle Python object serialization",
+      "url": "https://docs.python.org/3/library/pickle.html",
+      "snippet": "Python object serialization   Source code: Lib/pickle.py The module implements binary protocols for serializing and\nde-serializing a Python object structure.  Pickling  is the process\nwhereby a...",
+      "relevant": false
+    },
+    {
+      "doc_id": 2,
+      "title": "The Python Language Reference",
+      "url": "https://docs.python.org/3/reference/index.html",
+      "snippet": "The Python Language Reference   This reference manual describes the syntax and  core semantics  of the\nlanguage. It is terse, but attempts to be exact and complete. The semantics of\nnon-essential...",
+      "relevant": false
+    },
+    {
+      "doc_id": 22,
+      "title": "Built-in Functions",
+      "url": "https://docs.python.org/3/library/functions.html",
+      "snippet": "Built-in Functions   The Python interpreter has a number of functions and types built into it that\nare always available.  They are listed here in alphabetical order. Built-in Functions Built-in...",
+      "relevant": true
+    },
+    {
+      "doc_id": 14,
+      "title": "7.Input and Output",
+      "url": "https://docs.python.org/3/tutorial/inputoutput.html",
+      "snippet": "7. Input and Output   There are several ways to present the output of a program; data can be printed\nin a human-readable form, or written to a file for future use. This chapter will\ndiscuss some of...",
+      "relevant": true
+    }
+  ],
+  "javascript dom manipulation": [
+    {
+      "doc_id": 11,
+      "title": "4.More Control Flow Tools",
+      "url": "https://docs.python.org/3/tutorial/controlflow.html",
+      "snippet": "4. More Control Flow Tools   As well as the statement just introduced, Python uses a few more\nthat we will encounter in this chapter. 4.1. Statements   Perhaps the most well-known statement type is...",
+      "relevant": false
+    },
+    {
+      "doc_id": 17,
+      "title": "10.Brief tour of the standard library",
+      "url": "https://docs.python.org/3/tutorial/stdlib.html",
+      "snippet": "10. Brief tour of the standard library   10.1. Operating system interface   The module provides dozens of functions for interacting with the\noperating system: Be sure to use the style instead of . ...",
+      "relevant": false
+    },
+    {
+      "doc_id": 39,
+      "title": "zoneinfo IANA time zone support",
+      "url": "https://docs.python.org/3/library/zoneinfo.html",
+      "snippet": "IANA time zone support   Added in version 3.9. Source code: Lib/zoneinfo The module provides a concrete time zone implementation to\nsupport the IANA time zone database as originally specified in PEP...",
+      "relevant": false
+    },
+    {
+      "doc_id": 14,
+      "title": "7.Input and Output",
+      "url": "https://docs.python.org/3/tutorial/inputoutput.html",
+      "snippet": "7. Input and Output   There are several ways to present the output of a program; data can be printed\nin a human-readable form, or written to a file for future use. This chapter will\ndiscuss some of...",
+      "relevant": false
+    },
+    {
+      "doc_id": 65,
+      "title": "stat Interpretingstat()results",
+      "url": "https://docs.python.org/3/library/stat.html",
+      "snippet": "Interpreting results   Source code: Lib/stat.py The module defines constants and functions for interpreting the\nresults of , and (if they\nexist).  For complete details about the , and calls, consult...",
+      "relevant": false
+    },
+    {
+      "doc_id": 87,
+      "title": "configparser Configuration file parser",
+      "url": "https://docs.python.org/3/library/configparser.html",
+      "snippet": "Configuration file parser   Source code: Lib/configparser.py This module provides the class which implements a basic\nconfiguration language which provides a structure similar to what s found...",
+      "relevant": false
+    },
+    {
+      "doc_id": 86,
+      "title": "csv CSV File Reading and Writing",
+      "url": "https://docs.python.org/3/library/csv.html",
+      "snippet": "CSV File Reading and Writing   Source code: Lib/csv.py The so-called CSV (Comma Separated Values) format is the most common import and\nexport format for spreadsheets and databases.  CSV format was...",
+      "relevant": false
+    },
+    {
+      "doc_id": 1,
+      "title": "The Python Standard Library",
+      "url": "https://docs.python.org/3/library/index.html",
+      "snippet": "The Python Standard Library   While The Python Language Reference describes the exact syntax and\nsemantics of the Python language, this library reference manual\ndescribes the standard library that is...",
+      "relevant": false
+    },
+    {
+      "doc_id": 64,
+      "title": "os.path Common pathname manipulations",
+      "url": "https://docs.python.org/3/library/os.path.html",
+      "snippet": "Common pathname manipulations   Source code: Lib/genericpath.py , Lib/posixpath.py (for POSIX) and Lib/ntpath.py (for Windows). This module implements some useful functions on pathnames. To read or...",
+      "relevant": false
+    },
+    {
+      "doc_id": 72,
+      "title": "pickle Python object serialization",
+      "url": "https://docs.python.org/3/library/pickle.html",
+      "snippet": "Python object serialization   Source code: Lib/pickle.py The module implements binary protocols for serializing and\nde-serializing a Python object structure.  Pickling  is the process\nwhereby a...",
+      "relevant": false
+    }
+  ],
+  "javascript fetch api": [
+    {
+      "doc_id": 49,
+      "title": "pprint Data pretty printer",
+      "url": "https://docs.python.org/3/library/pprint.html",
+      "snippet": "Data pretty printer   Source code: Lib/pprint.py The module provides a capability to  pretty-print  arbitrary\nPython data structures in a form which can be used as input to the interpreter.\nIf the...",
+      "relevant": false
+    },
+    {
+      "doc_id": 2,
+      "title": "The Python Language Reference",
+      "url": "https://docs.python.org/3/reference/index.html",
+      "snippet": "The Python Language Reference   This reference manual describes the syntax and  core semantics  of the\nlanguage. It is terse, but attempts to be exact and complete. The semantics of\nnon-essential...",
+      "relevant": false
+    },
+    {
+      "doc_id": 63,
+      "title": "pathlib Object-oriented filesystem paths",
+      "url": "https://docs.python.org/3/library/pathlib.html",
+      "snippet": "Object-oriented filesystem paths   Added in version 3.4. Source code: Lib/pathlib/ This module offers classes representing filesystem paths with semantics\nappropriate for different operating systems....",
+      "relevant": false
+    },
+    {
+      "doc_id": 8,
+      "title": "Python 3.14.5 documentation",
+      "url": "https://docs.python.org/3/index.html",
+      "snippet": "Python 3.14.5 documentation Welcome! This is the official documentation for Python 3.14.5. Documentation sections: What's new in Python 3.14? Or all \"What's new\" documents since Python 2.0 Tutorial...",
+      "relevant": false
+    },
+    {
+      "doc_id": 14,
+      "title": "7.Input and Output",
+      "url": "https://docs.python.org/3/tutorial/inputoutput.html",
+      "snippet": "7. Input and Output   There are several ways to present the output of a program; data can be printed\nin a human-readable form, or written to a file for future use. This chapter will\ndiscuss some of...",
+      "relevant": false
+    },
+    {
+      "doc_id": 62,
+      "title": "operator Standard operators as functions",
+      "url": "https://docs.python.org/3/library/operator.html",
+      "snippet": "Standard operators as functions   Source code: Lib/operator.py The module exports a set of efficient functions corresponding to\nthe intrinsic operators of Python.  For example, is\nequivalent to the...",
+      "relevant": false
+    },
+    {
+      "doc_id": 11,
+      "title": "4.More Control Flow Tools",
+      "url": "https://docs.python.org/3/tutorial/controlflow.html",
+      "snippet": "4. More Control Flow Tools   As well as the statement just introduced, Python uses a few more\nthat we will encounter in this chapter. 4.1. Statements   Perhaps the most well-known statement type is...",
+      "relevant": false
+    },
+    {
+      "doc_id": 88,
+      "title": "tomllib Parse TOML files",
+      "url": "https://docs.python.org/3/library/tomllib.html",
+      "snippet": "Parse TOML files   Added in version 3.11. Source code: Lib/tomllib This module provides an interface for parsing TOML 1.0.0 (Tom s Obvious Minimal\nLanguage, https://toml.io ). This module does...",
+      "relevant": false
+    },
+    {
+      "doc_id": 77,
+      "title": "sqlite3 DB-API 2.0 interface for SQLite databases",
+      "url": "https://docs.python.org/3/library/sqlite3.html",
+      "snippet": "DB-API 2.0 interface for SQLite databases   Source code: Lib/sqlite3/ SQLite is a C library that provides a lightweight disk-based database that\ndoesn t require a separate server process and allows...",
+      "relevant": false
+    },
+    {
+      "doc_id": 72,
+      "title": "pickle Python object serialization",
+      "url": "https://docs.python.org/3/library/pickle.html",
+      "snippet": "Python object serialization   Source code: Lib/pickle.py The module implements binary protocols for serializing and\nde-serializing a Python object structure.  Pickling  is the process\nwhereby a...",
+      "relevant": false
+    },
+    {
+      "doc_id": 18,
+      "title": "11.Brief tour of the standard library  part II",
+      "url": "https://docs.python.org/3/tutorial/stdlib2.html",
+      "snippet": "11. Brief tour of the standard library   part II   This second tour covers more advanced modules that support professional\nprogramming needs.  These modules rarely occur in small scripts. 11.1....",
+      "relevant": false
+    },
+    {
+      "doc_id": 87,
+      "title": "configparser Configuration file parser",
+      "url": "https://docs.python.org/3/library/configparser.html",
+      "snippet": "Configuration file parser   Source code: Lib/configparser.py This module provides the class which implements a basic\nconfiguration language which provides a structure similar to what s found...",
+      "relevant": false
+    },
+    {
+      "doc_id": 86,
+      "title": "csv CSV File Reading and Writing",
+      "url": "https://docs.python.org/3/library/csv.html",
+      "snippet": "CSV File Reading and Writing   Source code: Lib/csv.py The so-called CSV (Comma Separated Values) format is the most common import and\nexport format for spreadsheets and databases.  CSV format was...",
+      "relevant": false
+    }
+  ],
+  "TypeError list index out of range": [
+    {
+      "doc_id": 7,
+      "title": "Index",
+      "url": "https://docs.python.org/3/genindex.html",
+      "snippet": "Index Index pages by letter: Symbols | _ | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z Full index on one page (can be huge)",
+      "relevant": false
+    },
+    {
+      "doc_id": 10,
+      "title": "3.An Informal Introduction to Python",
+      "url": "https://docs.python.org/3/tutorial/introduction.html",
+      "snippet": "3. An Informal Introduction to Python   In the following examples, input and output are distinguished by the presence or\nabsence of prompts ( >>> and   ): to repeat the example, you must...",
+      "relevant": false
+    },
+    {
+      "doc_id": 11,
+      "title": "4.More Control Flow Tools",
+      "url": "https://docs.python.org/3/tutorial/controlflow.html",
+      "snippet": "4. More Control Flow Tools   As well as the statement just introduced, Python uses a few more\nthat we will encounter in this chapter. 4.1. Statements   Perhaps the most well-known statement type is...",
+      "relevant": false
+    },
+    {
+      "doc_id": 8,
+      "title": "Python 3.14.5 documentation",
+      "url": "https://docs.python.org/3/index.html",
+      "snippet": "Python 3.14.5 documentation Welcome! This is the official documentation for Python 3.14.5. Documentation sections: What's new in Python 3.14? Or all \"What's new\" documents since Python 2.0 Tutorial...",
+      "relevant": false
+    },
+    {
+      "doc_id": 51,
+      "title": "enum Support for enumerations",
+      "url": "https://docs.python.org/3/library/enum.html",
+      "snippet": "Support for enumerations   Added in version 3.4. Source code: Lib/enum.py Important This page contains the API reference information. For tutorial\ninformation and discussion of more advanced topics,...",
+      "relevant": false
+    },
+    {
+      "doc_id": 90,
+      "title": "plistlib Generate and parse Apple.plistfiles",
+      "url": "https://docs.python.org/3/library/plistlib.html",
+      "snippet": "Generate and parse Apple files   Source code: Lib/plistlib.py This module provides an interface for reading and writing the  property list \nfiles used by Apple, primarily on macOS and iOS. This...",
+      "relevant": false
+    },
+    {
+      "doc_id": 73,
+      "title": "copyreg Registerpicklesupport functions",
+      "url": "https://docs.python.org/3/library/copyreg.html",
+      "snippet": "Register support functions   Source code: Lib/copyreg.py The module offers a way to define functions used while pickling\nspecific objects.  The and modules use those functions\nwhen pickling/copying...",
+      "relevant": false
+    },
+    {
+      "doc_id": 75,
+      "title": "marshal Internal Python object serialization",
+      "url": "https://docs.python.org/3/library/marshal.html",
+      "snippet": "Internal Python object serialization   This module contains functions that can read and write Python values in a binary\nformat.  The format is specific to Python, but independent of...",
+      "relevant": false
+    },
+    {
+      "doc_id": 28,
+      "title": "string.templatelib Support for template string literals",
+      "url": "https://docs.python.org/3/library/string.templatelib.html",
+      "snippet": "Support for template string literals   Source code: Lib/string/templatelib.py See also Format strings Format strings Template string literal (t-string) syntax Template string literal (t-string)...",
+      "relevant": false
+    },
+    {
+      "doc_id": 27,
+      "title": "string Common string operations",
+      "url": "https://docs.python.org/3/library/string.html",
+      "snippet": "Common string operations   Source code: Lib/string/__init__.py See also Text Sequence Type   str String Methods String constants   The constants defined in this module are: string. ascii_letters  ...",
+      "relevant": false
+    },
+    {
+      "doc_id": 81,
+      "title": "gzip Support forgzipfiles",
+      "url": "https://docs.python.org/3/library/gzip.html",
+      "snippet": "Support for gzip files   Source code: Lib/gzip.py This module provides a simple interface to compress and decompress files just\nlike the GNU programs gzip and gunzip would. This is an optional module...",
+      "relevant": false
+    },
+    {
+      "doc_id": 82,
+      "title": "bz2 Support forbzip2compression",
+      "url": "https://docs.python.org/3/library/bz2.html",
+      "snippet": "Support for bzip2 compression   Source code: Lib/bz2.py This module provides a comprehensive interface for compressing and\ndecompressing data using the bzip2 compression algorithm. The module...",
+      "relevant": false
+    },
+    {
+      "doc_id": 58,
+      "title": "random Generate pseudo-random numbers",
+      "url": "https://docs.python.org/3/library/random.html",
+      "snippet": "Generate pseudo-random numbers   Source code: Lib/random.py This module implements pseudo-random number generators for various\ndistributions. For integers, there is uniform selection from a range....",
+      "relevant": false
+    },
+    {
+      "doc_id": 12,
+      "title": "5.Data Structures",
+      "url": "https://docs.python.org/3/tutorial/datastructures.html",
+      "snippet": "5. Data Structures   This chapter describes some things you ve learned about already in more detail,\nand adds some new things as well. 5.1. More on Lists   The list data type has some more methods....",
+      "relevant": false
+    },
+    {
+      "doc_id": 44,
+      "title": "bisect Array bisection algorithm",
+      "url": "https://docs.python.org/3/library/bisect.html",
+      "snippet": "Array bisection algorithm   Source code: Lib/bisect.py This module provides support for maintaining a list in sorted order without\nhaving to sort the list after each insertion.  For long lists of...",
+      "relevant": false
+    },
+    {
+      "doc_id": 79,
+      "title": "compression.zstd Compression compatible with the Zstandard format",
+      "url": "https://docs.python.org/3/library/compression.zstd.html",
+      "snippet": "Compression compatible with the Zstandard format   Added in version 3.14. Source code: Lib/compression/zstd/__init__.py This module provides classes and functions for compressing and...",
+      "relevant": false
+    }
+  ],
+  "AttributeError NoneType object": [
+    {
+      "doc_id": 72,
+      "title": "pickle Python object serialization",
+      "url": "https://docs.python.org/3/library/pickle.html",
+      "snippet": "Python object serialization   Source code: Lib/pickle.py The module implements binary protocols for serializing and\nde-serializing a Python object structure.  Pickling  is the process\nwhereby a...",
+      "relevant": false
+    },
+    {
+      "doc_id": 88,
+      "title": "tomllib Parse TOML files",
+      "url": "https://docs.python.org/3/library/tomllib.html",
+      "snippet": "Parse TOML files   Added in version 3.11. Source code: Lib/tomllib This module provides an interface for parsing TOML 1.0.0 (Tom s Obvious Minimal\nLanguage, https://toml.io ). This module does...",
+      "relevant": false
+    },
+    {
+      "doc_id": 22,
+      "title": "Built-in Functions",
+      "url": "https://docs.python.org/3/library/functions.html",
+      "snippet": "Built-in Functions   The Python interpreter has a number of functions and types built into it that\nare always available.  They are listed here in alphabetical order. Built-in Functions Built-in...",
+      "relevant": false
+    },
+    {
+      "doc_id": 23,
+      "title": "Built-in Constants",
+      "url": "https://docs.python.org/3/library/constants.html",
+      "snippet": "Built-in Constants   A small number of constants live in the built-in namespace.  They are: False   The false value of the type. Assignments to are illegal and raise a . The false value of the type....",
+      "relevant": false
+    },
+    {
+      "doc_id": 73,
+      "title": "copyreg Registerpicklesupport functions",
+      "url": "https://docs.python.org/3/library/copyreg.html",
+      "snippet": "Register support functions   Source code: Lib/copyreg.py The module offers a way to define functions used while pickling\nspecific objects.  The and modules use those functions\nwhen pickling/copying...",
+      "relevant": false
+    },
+    {
+      "doc_id": 47,
+      "title": "types Dynamic type creation and names for built-in types",
+      "url": "https://docs.python.org/3/library/types.html",
+      "snippet": "Dynamic type creation and names for built-in types   Source code: Lib/types.py This module defines utility functions to assist in dynamic creation of\nnew types. It also defines names for some object...",
+      "relevant": false
+    },
+    {
+      "doc_id": 29,
+      "title": "re Regular expression operations",
+      "url": "https://docs.python.org/3/library/re.html",
+      "snippet": "Regular expression operations   Source code: Lib/re/ This module provides regular expression matching operations similar to\nthose found in Perl. Both patterns and strings to be searched can be...",
+      "relevant": false
+    },
+    {
+      "doc_id": 13,
+      "title": "6.Modules",
+      "url": "https://docs.python.org/3/tutorial/modules.html",
+      "snippet": "6. Modules   If you quit from the Python interpreter and enter it again, the definitions you\nhave made (functions and variables) are lost. Therefore, if you want to write a\nsomewhat longer program,...",
+      "relevant": false
+    },
+    {
+      "doc_id": 62,
+      "title": "operator Standard operators as functions",
+      "url": "https://docs.python.org/3/library/operator.html",
+      "snippet": "Standard operators as functions   Source code: Lib/operator.py The module exports a set of efficient functions corresponding to\nthe intrinsic operators of Python.  For example, is\nequivalent to the...",
+      "relevant": false
+    },
+    {
+      "doc_id": 98,
+      "title": "logging.config Logging configuration",
+      "url": "https://docs.python.org/3/library/logging.config.html",
+      "snippet": "Logging configuration   Source code: Lib/logging/config.py Important This page contains only reference information. For tutorials,\nplease see Basic Tutorial Basic Tutorial Advanced Tutorial Advanced...",
+      "relevant": false
+    },
+    {
+      "doc_id": 61,
+      "title": "functools Higher-order functions and operations on callable objects",
+      "url": "https://docs.python.org/3/library/functools.html",
+      "snippet": "Higher-order functions and operations on callable objects   Source code: Lib/functools.py The module is for higher-order functions: functions that act on\nor return other functions. In general, any...",
+      "relevant": false
+    },
+    {
+      "doc_id": 25,
+      "title": "Built-in Exceptions",
+      "url": "https://docs.python.org/3/library/exceptions.html",
+      "snippet": "Built-in Exceptions   In Python, all exceptions must be instances of a class that derives from .  In a statement with an clause that mentions a particular class, that clause also handles any...",
+      "relevant": false
+    }
+  ]
+}
